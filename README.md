@@ -1,4 +1,4 @@
-# rock_paper_spock
+## rock_paper_spock
 
 #####:sunny: :palm_tree: :evergreen_tree:[Demo of my completed assignment](http://lorienmcs.github.io/rock_paper_spock/):evergreen_tree: :palm_tree: :sunny:
 
